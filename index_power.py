@@ -6,7 +6,6 @@ def index_power(array: list, n: int) -> int:
     else:
         return int(array[n]**n)
 #end solution
-
 if __name__ == '__main__':
     print('Example:')
     print(index_power([1, 2, 3, 4], 2))
