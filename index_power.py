@@ -1,7 +1,6 @@
 
 def index_power(array: list, n: int) -> int:
  #solution begin
-    
     if n>len(array)-1:
         return -1
     else:
