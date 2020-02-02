@@ -1,0 +1,9 @@
+def checkio(data):
+    if data == []:
+        return 0
+    else:
+        first = data[0]
+        shrink_data = data[1:]
+        return first + checkio(shrink_data)
+
+   
