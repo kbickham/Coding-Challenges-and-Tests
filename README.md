@@ -1,10 +1,4 @@
-# checkiosolutions
-Keeping track of my solutions to checkio problems. Moving from C languages to Python
+# Code Challeneges and Tests
+I first attempted coding in qbasic/visual basic as a kid. When I got to high school I seemed to do well and took three years of AP Computer Science at Allen High School.
 
-These are my solutions to the problems on py.checkio.org
-I come from a C language background. I can get by in VHDL, but I'm learning Python so I can modernize my skillset.
-I'll be honest, python isn't much in terms of performance but you really can do alot, with a little bit of code.
-
-I must say, I do really like the set of problems and interface on checkio. They have one for python and another for javascript.
-I'm trying to do a little bit every day while I'm studying for the FE Exam. Check it out if you're interested in learning.
-![Checkio's Python Prgoram](https://github.com/kbickham/checkiosolutions/blob/master/checkio.PNG)
+After leaving school to puruse martial arts I stopped coding. Upon re-entering school to pursue and engineering degree I discovered that I genuinely enjoy coding embedded systems. That being said, my approaches and style are somewhat sloppy. The skillset that I currently posses requires refinement and diretion. I am catalogging the tests and challenge problems I complete, furthering my education into computer science/software engineering. I may not be the best right now, but the derivative of my utility in this regard will always be positive. 
