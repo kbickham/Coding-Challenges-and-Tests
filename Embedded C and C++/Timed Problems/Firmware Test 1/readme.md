@@ -15,4 +15,8 @@ Problems with this solution:
 
 I will return to this problem at some point and attempt to write a better more efficient solution.
 
+Here is a picture of the hw I threw together for this test:
+
+![Arduino UNO and peripheral setup for test](https://github.com/kbickham/Coding-Challenges-and-Tests/blob/master/Embedded%20C%20and%20C%2B%2B/Timed%20Problems/Firmware%20Test%201/firmwaretesthw.jpg)
+
 
