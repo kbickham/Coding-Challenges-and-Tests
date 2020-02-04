@@ -1,9 +1,9 @@
 from collections import Counter
-
 def frequency_sort(items):
     count = Counter(items)
     return sorted(sorted(items),key=lambda x: count[x] - items.index(x) ,reverse = True)
 
+#end of my code
 
 if __name__ == '__main__':
     print("Example:")
